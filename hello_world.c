@@ -7,7 +7,7 @@ int addition(int a, int b) {
 int main() {
     // PRINT HELLO WORLD
     printf("Hello, World!\n");
-
+/*
     // COMPARAISON DEUX VARIABLES 
     int a, b;
     // Demande à l'utilisateur d'entrer deux nombres
@@ -22,7 +22,7 @@ int main() {
     } else {
         printf("Les deux nombres sont égaux : %d\n", a);
     }
-/*
+
     //PRINT 1-100  for loop
     for (int i = 1; i <= 100; i++) {
          printf("%d\n", i);}
